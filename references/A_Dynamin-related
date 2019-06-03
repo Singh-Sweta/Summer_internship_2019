@@ -1,0 +1,22 @@
+Guide to A Dynamin-Related protein required for Nuclear Remodeling in Tetrahymen
+
+tetrahymen:-A free-living Genus, Ciliated helps in microtubule reaction, common in fresh water ponds, easy reproducable.
+
+germlin cells:-the cells required for reproduction.
+
+mac and min:- tetrahymens have 2 nuclie, the mac(macronucleus) is the larger on it does not contain germline cells, regulates metabolic processes. while, min(micronucleus) is relatively far smaller, performs reproductive functions. Tetrahyman has both of them.
+
+NPC:- nuclear pore complexes, basically the compounds found at the nuclear pores.
+
+Tagging proteins:-
+GFP:-Green Fluorescent Protein. GFP traditionally refers to the protein first isolated from the jellyfish Aequorea victoria.
+HA:-Human influenza hemagglutinin.The HA tag is not suitable for detection or purification of proteins from apoptotic cells
+
+ΔDRP:- cells which do not have DRP
+
+Summary
+
+We use tagging protiens to tag drp6 and some NPC called Nup3.
+result was drp6 was patchly distributed and Nup3 was evenly distributed
+
+Then created ΔDRP cells, and found that it did not affect the distribution of Nup3(same tag was used)
